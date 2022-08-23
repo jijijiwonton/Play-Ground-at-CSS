@@ -1,0 +1,136 @@
+/* Positioned with a line */
+.container1 {
+  background: beige;
+}
+
+/* Positioned from left to right */
+.container2 {
+  background: beige;
+  display: flex;
+}
+
+/* Positioned from right to left */
+.container3 {
+  background: beige;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+/* Positioned from top to bottom, but reversed item */
+.container4 {
+  background: beige;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+/* Squeeze all items without wrapping */
+.container5 {
+  background: beige;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+/* Don't squeeze items, instead wrap up */
+.container6 {
+  background: beige;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Justify content as a center */
+.container7 {
+  background: beige;
+  display: flex;
+  justify-content: center;
+}
+
+/* Justify a space around an each item */
+.container8 {
+  background: beige;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Justify a space around an item evenly */
+.container9 {
+  background: beige;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/* Justify a space around an item, except for the first and last */
+.container10 {
+  background: beige;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+  width: 60px;
+  height: 60px;
+}
+
+.item1,
+.item11,
+.item21,
+.item31 {
+  background: #fff9c4;
+}
+
+.item2,
+.item12,
+.item22,
+.item32 {
+  background: #ffe0b2;
+}
+
+.item3,
+.item13,
+.item23,
+.item33 {
+  background: #dcedc8;
+}
+
+.item4,
+.item14,
+.item24,
+.item34 {
+  background: #b2dfdb;
+}
+
+.item5,
+.item15,
+.item25,
+.item35 {
+  background: #b3e5fc;
+}
+
+.item6,
+.item16,
+.item26 {
+  background: #d1c4e9;
+}
+
+.item7,
+.item17,
+.item27 {
+  background: #f8bbd0;
+}
+
+.item8,
+.item18,
+.item28 {
+  background: #d7ccc8;
+}
+
+.item9,
+.item19,
+.item29 {
+  background: #f5f5f5;
+}
+
+.item10,
+.item20,
+.item30 {
+  background: #cfd8dc;
+}

@@ -5,6 +5,7 @@ A user can select a card option that nevigates to the CSS concept for a demo
 ## CSS Selt-learning curriculum
 ```
 * CSS variables
+https://developer.mozilla.org/en-US/docs/Web/CSS/--*
 * Important data of HTML
 * Box model (layout)
 * Absolute VS Static

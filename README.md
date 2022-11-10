@@ -5,7 +5,7 @@ Building a skeleton all matters! Playing around with CSS
 ```
 * CSS variables
 * Important data of HTML
-* Box model
+* Box model (layout)
 * Absolute VS Static
 * Sticky VS Fixed
 * Centering trick

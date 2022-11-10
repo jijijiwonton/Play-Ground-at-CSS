@@ -1,5 +1,5 @@
 # Play-Ground-at-CSS
-Building a skeleton all matters! Playing around with CSS.
+Building a skeleton all matters! Playing around with CSS. </br>
 A user can select a card option that nevigates to the CSS concept for a demo
 
 ## CSS Selt-learning curriculum

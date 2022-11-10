@@ -12,3 +12,5 @@ Building a skeleton all matters! Playing around with CSS
 * Responsive background
 * Transformation
 ```
+##### References
+https://cdnjs.com/libraries/normalize
